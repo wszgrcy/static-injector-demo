@@ -785,10 +785,10 @@ source-map@~0.7.2:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.7.3.tgz#5302f8169031735226544092e64981f751750383"
   integrity sha512-CkCj6giN3S+n9qrYiBTX5gystlENnRW5jZeNLHpe6aue+SrHcG5VYwujhW9s4dY31mEGsxBDrHR6oI69fTXsaQ==
 
-static-injector@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/static-injector/-/static-injector-1.0.6.tgz#c33359f1ddd3240ac22d656beb9c9fd0205a586e"
-  integrity sha512-pbnxBS2RmjjiqCKDnavKo9WkUvahFGIiqXQPMuhut8Ze3mJDjzSvY73Pox1182qhCoGiVDjwjBz0kv3Tp+dDfw==
+static-injector@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/static-injector/-/static-injector-1.0.7.tgz#b075751ddd27886b8bc65aa1c40ccf202df8ceee"
+  integrity sha512-N0289NbtuIK5KjVQQoO1wXfA+RCIWiDNTVy/I64gucIysPqdzeWIW4UYC5X9bWZz3hnOMpc6fUnanlmpOD/p1w==
 
 strip-final-newline@^2.0.0:
   version "2.0.0"
